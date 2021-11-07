@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "Make a website with responsive",
+      "details": "lorem50 lorem10",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Hello, i am ridwanulhoquejr",
+      "details": "from katalgonj, Chittagong ",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "Make a web",
+      "details": "dahdi",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
